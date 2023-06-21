@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/static/css/main.4e0ecf1e.css",
-    "main.js": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/static/js/main.b1cbc1a8.js",
-    "static/js/787.3ae1f680.chunk.js": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/static/js/787.3ae1f680.chunk.js",
-    "index.html": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/index.html",
-    "main.4e0ecf1e.css.map": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/static/css/main.4e0ecf1e.css.map",
-    "main.b1cbc1a8.js.map": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/static/js/main.b1cbc1a8.js.map",
-    "787.3ae1f680.chunk.js.map": "'https://ekdls1218.github.io/wanted-pre-onboarding-frontend/';/static/js/787.3ae1f680.chunk.js.map"
+    "main.css": "/wanted-pre-onboarding-frontend/static/css/main.4e0ecf1e.css",
+    "main.js": "/wanted-pre-onboarding-frontend/static/js/main.a01d4952.js",
+    "static/js/787.3ae1f680.chunk.js": "/wanted-pre-onboarding-frontend/static/js/787.3ae1f680.chunk.js",
+    "index.html": "/wanted-pre-onboarding-frontend/index.html",
+    "main.4e0ecf1e.css.map": "/wanted-pre-onboarding-frontend/static/css/main.4e0ecf1e.css.map",
+    "main.a01d4952.js.map": "/wanted-pre-onboarding-frontend/static/js/main.a01d4952.js.map",
+    "787.3ae1f680.chunk.js.map": "/wanted-pre-onboarding-frontend/static/js/787.3ae1f680.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e0ecf1e.css",
-    "static/js/main.b1cbc1a8.js"
+    "static/js/main.a01d4952.js"
   ]
 }
